@@ -1,0 +1,11 @@
+div{
+    border: 5px solid red;
+    background-color: aqua;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+}
+.header{
+    margin: 0 auto;
+    align-items: center;
+}
